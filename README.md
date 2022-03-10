@@ -66,6 +66,7 @@
 <img width="385" alt="image" src="https://user-images.githubusercontent.com/99497212/157752500-0fdb698d-2ac4-4155-838d-fb9b8c99b788.png">
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/99497212/157752638-035e0486-6d21-47c0-8cf5-7d53009db5d5.png">
 4. В ветке master в удаленном репозитории измените комментарии, например, расставьте знаки препинания, переведите комментарии на другой язык.
+
 5. Убедитесь, что в pull-request появились конфликтны.
  <img width="565" alt="image" src="https://user-images.githubusercontent.com/99497212/157753487-baae3ab3-825f-405a-8482-edec323a5ebe.png">
 6. Для этого локально выполните pull + rebase (точную последовательность команд, следует узнать самостоятельно). Исправьте конфликты.
